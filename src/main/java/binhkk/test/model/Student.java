@@ -18,7 +18,7 @@ public class Student {
         return Classz;
     }
 
-    public void setClassz(binhkk.test.model.Classz classz) {
+    public void setClassz(Student classz) {
         Classz = classz;
     }
 
